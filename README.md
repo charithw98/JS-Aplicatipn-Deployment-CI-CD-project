@@ -1,2 +1,2 @@
-# JS-aaplicatipn-Deployment-CI-CD-project
+# JS-Aplicatipn-Deployment-CI-CD-project
 Deployment of Online Ticket booking application on Kubernetes cluster on AWS
